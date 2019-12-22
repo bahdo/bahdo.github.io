@@ -1,16 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Computer Science undergraduate 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Gabriel Akdemir and I'm a student at NJIT part of the 2020 graduating class. I have professional and personal experience in Software Engineering and Data Science.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### My Experience
 
-What else do you need?
+As an undergraduate I've held intern and part-time positions as a Date Scientist and Software Developer. I've worked on projects that involve creating algorithms, building machine learning models, building web apps, and day to day maintenance of software. 
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+For more information about feel free to refer to my resume and connect with me on [LinkedIn](https://www.linkedin.com/in/gabrielakdemir/)
