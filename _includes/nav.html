@@ -23,7 +23,7 @@
             <div class="navlinks-children">
               {%- for childlink in link[1] -%}
               {%- for linkparts in childlink %}
-              <a href="{{ linkparts[1] | relative_url }}">{{ linkparts[0] }}</a>
+             
               {%- endfor -%}
               {%- endfor %}
             </div>
@@ -36,13 +36,6 @@
     </div>
 
 	{% if page.image and (layout.show-avatar or page.show-avatar) %}
-	<div class="avatar-container">
-	  <div class="avatar-img-border">
-	    <a href="{{ '' | absolute_url }}">
-	      <img class="avatar-img" src="{{ page.image | relative_url }}" />
-		</a>
-	  </div>
-	</div>
 	{% elsif site.avatar and (layout.show-avatar or page.show-avatar) %}
 	<div class="avatar-container">
 	  <div class="avatar-img-border">
